@@ -1,0 +1,4 @@
+name=mari0 mappack 1
+author=tbey
+description=tbeys first      custom mari0     mappack
+lives=5
